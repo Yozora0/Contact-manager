@@ -1,5 +1,14 @@
 # ContactManager
 
+- Liste de contacts avec recherche, filtres et tri
+- Ajout / modification / suppression avec formulaires réactifs
+- Drawer animé pour les détails
+- Groupes / catégories avec compteurs
+- Import / export CSV avec détection de doublons
+- Photo de profil
+- Dark mode
+- Alerts colorées contextuelles
+
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 21.2.4.
 
 ## Development server
