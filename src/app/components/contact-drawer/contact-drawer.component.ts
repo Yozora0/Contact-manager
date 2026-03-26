@@ -24,6 +24,7 @@ import { ContactFormComponent } from '../contact-form/contact-form.component';
         class="relative w-full max-w-md bg-white dark:bg-gray-900 shadow-2xl flex flex-col overflow-hidden"
         [class.animate-slide-in]="!closing"
         [class.animate-slide-out]="closing"
+        style="border-top-left-radius: 1rem;"
       >
         <div
           class="px-6 py-8 flex-shrink-0"
